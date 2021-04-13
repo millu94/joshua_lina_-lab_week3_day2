@@ -1,0 +1,12 @@
+.where-togo {
+    color: #FFF;
+    background: #040E27;
+    position: relative;
+    padding: 20px;
+  }
+
+  #search-button {
+      background-color: royalblue;
+      padding: 10px;
+      border-radius: 12px;
+  }
